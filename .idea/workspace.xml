@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="726f33b4-69ca-4bee-8acf-dc3a29884bc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bai 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai tap 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai tap 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bai tap 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bai tap 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai tap 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai tap 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai tap 3.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai tap 3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,15 +20,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2u6fetDfFP8xQvb68V3z5qiil8S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,6 +43,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/bienTutorial",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,11 +67,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741574042362</updated>
-      <workItem from="1741574043508" duration="1874000" />
+      <workItem from="1741574043508" duration="5539000" />
+      <workItem from="1741655595420" duration="1176000" />
+      <workItem from="1741656800129" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
